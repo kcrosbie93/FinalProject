@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5438/example-full</identifier>
+
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Shivam, Bansal</creatorName>
+      <givenName>Shivam</givenName>
+      <familyName>Bansal</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en-US">Netflix Movies and TV Shows</title>
+  </titles>
+  <publisher xml:lang="en">Kaggle</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Motion pictures</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Television broadcasting of films</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Television</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Streaming video</subject>
+  </subjects>
+
+  <dates>
+    <date dateType="Updated" dateInformation="Updated with 4.2 properties">2019-12-03  </date>
+  </dates>
+  <language>en-US</language>
+  <resourceType resourceType   General="Software">XML</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://schema.datacite.org/meta/kernel-4.2/example/datacite-example-full-v4.2.xml</alternateIdentifier>
+  </alternateIdentifiers>
+  </relatedIdentifiers>
+  <sizes>
+    <size>2,931 KB</size>
+  </sizes>
+  <formats>
+    <format>application/xml</format>
+  </formats>
+  <version>4.2</version>
+  <rightsList>
+   <rights xml:lang="en-US" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC0 1.0" rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>  </rightsList>
+  <descriptions>
+    <description xml:lang="en-US" descriptionType="Abstract">
+      XML example of all DataCite Metadata Schema v4.2 properties.
+    </description>
+  </descriptions>
+  
